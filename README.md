@@ -1,5 +1,6 @@
 Araştırma ödevi: decoder encoder nedir ?
- Proje odevi:
+
+Proje odevi:
         // Mükemmel sayı : Mükemmel sayı,sayılar teorisinde, kendisi hariç pozitif tam
 	// bölenlerinin toplamı kendisine eşit olan sayı.
 	// Diğer bir ifadeyle, bir mükemmel sayı, bütün pozitif tam bölenlerinin
